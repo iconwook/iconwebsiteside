@@ -23,7 +23,7 @@ public class Main {
 			}
 		}
 		for(int i=0; i<=ab.length; i++){
-			System.out.println(ab[i]);
+			System.out.println(ab[i],ab[i]);
 		}
     }
 }
