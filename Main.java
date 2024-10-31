@@ -19,6 +19,7 @@ public class Main {
 				if(count>2){
 					ab[p] = a;
 					p++;
+					p++;
 				}
 			}
 		}
